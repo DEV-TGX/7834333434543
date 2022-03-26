@@ -1,7 +1,7 @@
 {
-  "name": "nanospacex",
+  "name": "7834333434543",
   "version": "6.5.1",
-  "description": "✈ Join Discord: https://discord.gg/4pk97A2 👌",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "@discordjs/rest": "^0.2.0-canary.0",
@@ -33,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adivise/NanoSpace.git"
+    "url": "git+https://github.com/"
   },
   "bugs": {
-    "url": "https://github.com/Adivise/NanoSpace/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/Adivise/NanoSpace#readme",
+  "homepage": "https://github.com/",
   "devDependencies": {
     "node": "^17.0.1"
   }
